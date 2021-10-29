@@ -51,3 +51,19 @@
         O que é essencial saber e por onde começar para que você domine o Ruby sem pular a base da linguagem.
     </span>
 </div>
+
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 3: <span style="color: #4dbdb1;">Estruturas de Controle</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        Vamos falar sobre Condicionais: If, Else, Elsif, Unless e Case; Iteração: For, While, Times e Do/While e; Iteração + Condicional 
+    </span>
+</div>
+
+
