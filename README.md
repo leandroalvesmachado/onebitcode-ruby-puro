@@ -66,4 +66,18 @@
     </span>
 </div>
 
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 4: <span style="color: #4dbdb1;">Collections</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        O que são e como Manipular Collections (Arrays e Hashes), e como usar as Iterações em Collections (Each, Map e Select).
+    </span>
+</div>
+
 
