@@ -80,4 +80,32 @@
     </span>
 </div>
 
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 5: <span style="color: #4dbdb1;">Métodos e Gems</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        O que são Métodos e Gems e como trabalhar com eles na prática.
+    </span>
+</div>
+
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 6: <span style="color: #4dbdb1;">Programação Orientada a Objetos I</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        O que é a Programação Orientada a Objetos, entenda o que de fato são os Objetos, as Classes e faça alguns exemplos práticos com Ruby.
+    </span>
+</div>
+
 
