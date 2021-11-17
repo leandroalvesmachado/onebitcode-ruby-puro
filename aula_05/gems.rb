@@ -48,3 +48,16 @@ puts "Meu PC possui #{OS.cpu_count} cores, é #{OS.bits} bits e o sistema operac
 # Para ter controle sobre as dependências de um projeto contamos com uma ferramenta que procura e instala gems chamada Bundler.
 # 2- O bundler também é uma gem. Para instalá-lo rode
 # gem install bundler
+
+# 3- Salve a lista de gems do projeto em um arquivo chamado Gemfile
+# Na primeira linha é definido onde o bundle deve procurar pelas gems.
+# Depois é listado as dependências do projeto.
+
+# Ex:
+# source 'https://rubygems.org'
+
+# gem 'os'
+
+# 4- Instale estas gems (do arquivo Gemfile) com o comando.
+# Assim, qualquer pessoa envolvida no projeto pode facilmente instalar suas dependências.
+# bundle install

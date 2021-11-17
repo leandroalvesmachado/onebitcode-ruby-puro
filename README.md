@@ -108,4 +108,59 @@
     </span>
 </div>
 
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 7: <span style="color: #4dbdb1;">Programação Orientada a Objetos II</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        Vamos continuar nos aprofundando na Programação Orientada a Objetos, entender o que é o Require, Escopo das variáveis, Atributos e os Construtores.
+    </span>
+</div>
+
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 8: <span style="color: #4dbdb1;">Ruby Avançado I</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        Avançando um pouco mais nossos conhecimentos em Ruby, vamos ver o que são Blocks, Lambda e Modules (Namespace e Mixins).
+    </span>
+</div>
+
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 9: <span style="color: #4dbdb1;">Ruby Avançado II</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        Entenda o que são Regex, Time, Method Missing, Self e métodos Private e Protected.
+    </span>
+</div>
+
+<br>
+
+<div>
+    <strong>
+        <span style="color: #ff6666;">
+            Aula 10: <span style="color: #4dbdb1;">Projeto Final</span>
+        </span>
+    </strong>
+    <br>
+    <span style="color: #FFFFFF;">
+        Na última aula do nosso curso de Ruby, você vai aprender leitura de arquivos, chamadas web, web scraping e será desafiado a concluir o projeto final aplicando tudo o que foi aprendido ao longo dessas 10 aulas.
+    </span>
+</div>
 
